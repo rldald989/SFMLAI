@@ -1,0 +1,14 @@
+﻿  Game.cpp
+D:\dev\John Smith\Desktop\NeuralNetworking\NeuralNetworking\Game.h(38,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\dev\John Smith\Desktop\NeuralNetworking\NeuralNetworking\Game.cpp(13,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\dev\John Smith\Desktop\NeuralNetworking\NeuralNetworking\Game.cpp(38,31): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+D:\dev\John Smith\Desktop\NeuralNetworking\NeuralNetworking\Game.cpp(39,32): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+D:\dev\John Smith\Desktop\NeuralNetworking\NeuralNetworking\Game.cpp(79,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\dev\John Smith\Desktop\NeuralNetworking\NeuralNetworking\Game.cpp(141,27): warning C4018: '<': signed/unsigned mismatch
+D:\dev\John Smith\Desktop\NeuralNetworking\NeuralNetworking\Game.cpp(162,19): warning C4018: '<': signed/unsigned mismatch
+D:\dev\John Smith\Desktop\NeuralNetworking\NeuralNetworking\Game.cpp(164,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\dev\John Smith\Desktop\NeuralNetworking\NeuralNetworking\Game.cpp(176,21): warning C4018: '<': signed/unsigned mismatch
+D:\dev\John Smith\Desktop\NeuralNetworking\NeuralNetworking\Game.cpp(200,21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\dev\John Smith\Desktop\NeuralNetworking\NeuralNetworking\Game.cpp(346,20): warning C4018: '<': signed/unsigned mismatch
+D:\dev\John Smith\Desktop\NeuralNetworking\NeuralNetworking\Game.cpp(348,21): warning C4018: '<': signed/unsigned mismatch
+  NeuralNetworking.vcxproj -> D:\dev\John Smith\Desktop\NeuralNetworking\Debug\NeuralNetworking.exe
